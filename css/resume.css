@@ -116,7 +116,7 @@ p.lead {
     margin: auto auto 0;
     padding: 0.5rem;
   }
-  #sideNav .navbar-brand .img-profile {
+  #sideNav .navbar-brand .img-9bird {
     max-width: 10rem;
     max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
@@ -176,15 +176,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: ##FDF4EA !important;
+  background-color: #FDF4EA !important;
 }
 
 .text-primary {
-  color: ##FDF4EA !important;
+  color: #FDF4EA !important;
 }
 
 a {
-  color: ##FDF4EA;
+  color: #FDF4EA;
 }
 
 a:hover, a:focus, a:active {
